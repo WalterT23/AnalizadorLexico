@@ -8,6 +8,6 @@ Compiladores 2019 FP-UNA
 -Melany Bazan melbazan97@gmail.com
 
 ####Para compilar:
-1. gcc traductor.c -o json
+1. gcc anlexjson.c -o json
 2. ./json fuente.txt
 
