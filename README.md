@@ -1,11 +1,10 @@
 Compiladores
 ============
 
-Compiladores 2019 FP-UNA
+Compiladores 2020 FP-UNA
 
-####Integrantes: <br>
+####Autor: <br>
 -Walter Torales wtoralesv@gmail.com<br>
--Melani Bazan melbazan97@gmail.com
 
 ####Para compilar:
 1. gcc anlexjson.c -o json
